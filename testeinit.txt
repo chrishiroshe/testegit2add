@@ -1,5 +1,9 @@
 teste123 de commit
 
+<<<<<<< HEAD
 teste2
 
 tefa adasdsada
+=======
+teste2
+>>>>>>> parent of 23a54d1 (deu certo)
